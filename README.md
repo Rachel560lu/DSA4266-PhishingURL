@@ -50,20 +50,4 @@ We used the **PhiUSIIL Phishing URL Dataset** from the UC Irvine Machine Learnin
 - Our models, particularly the CNN-BiLSTM hybrid, achieved high accuracy, demonstrating the potential of deep learning in phishing detection.
 - Comprehensive evaluation highlighted the trade-offs and benefits of using different model combinations and feature subsets.
 
-## Installation and Requirements
-
-To replicate this project:
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/Rachel560lu/DSA4266-PhishingURL.git
-   ```
-2. Navigate to the project directory:
-   ```bash
-   cd DSA4266-PhishingURL
-   ```
-3. Install the required dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
    
